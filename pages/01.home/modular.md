@@ -2,7 +2,7 @@
 title: Home
 menu: Home
 onpage_menu: false
-body_classes: "modular header-image fullwidth"
+body_classes: "home page page-template page-template-template-home page-template-template-home-php group-blog"
 
 content:
     items: @self.modular
@@ -16,5 +16,3 @@ content:
             - _bottom
             - _contact
 ---
-
-

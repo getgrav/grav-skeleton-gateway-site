@@ -3,6 +3,18 @@ author:
   name: John Appleseed                      # Default author name
   email: 'john@email.com'                   # Default author email
   copyright: "Copyright 2013 Gateway. All Rights Reserved."
+ # Logo must be uploaded to theme's img folder.
+logo: logo.png
+header:
+  title: The City &amp; the Wild
+  description: Gateway has elegant style perfectly suited for a variety of users; writers, businesses or personal sites. Design is everywhere... even under the hood with rock solid development.
+  background: background.jpg
+  buttons:
+    - text: Explore More
+      url: "#"
+      class: button radius
+
+
 social:
   - url: 'https://twitter.com/getgrav'
     icon: 'twitter'
@@ -15,7 +27,7 @@ contact:
     - line: "222 Ave C South"
     - line: "Saskatoon, Saskatchewan"
     - line: "Canada S7K 2N5"
-  gps: 1.306.222.3456  
+  gps: 1.306.222.3456
 othermenu:
   - text: "About"
     url: "about"
@@ -33,9 +45,9 @@ quicklinks:
   - text: "Archive"
     url: "base_url:archive"
   - text: "Blog"
-    url: "base_url:blog"   
+    url: "base_url:blog"
   - text: "Contact Us"
-    url: "base_url:contact"          
+    url: "base_url:contact"
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
@@ -53,7 +65,7 @@ header_options:
   autoslide: 'false'                        # Auto slideshow mode
   autoslideHoverStop: 'false'               # Pause auto slideshow mode on mouseover
   interval: '2000'                          # The interval between each slide (Interval in millisecond)
-  loop: 'false'                             # Infinite slideshow             
+  loop: 'false'                             # Infinite slideshow
   transition : zoom                         # Set the animation kind (fade/slide/page/zoom)
   itemsForSlide: '0'                        # Wrap each 'n' item
   touch: 'true'                             # Set a native slide for touch device
@@ -67,5 +79,3 @@ footer:
     newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
     copyright_text: "Copyright 2013 Gateway. All Rights Reserved."
     feedburner: ""   # Your feedburner id for Newsletter footer modul
-
-

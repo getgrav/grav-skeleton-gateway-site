@@ -3,7 +3,8 @@ author:
   name: John Appleseed                      # Default author name
   email: 'john@email.com'                   # Default author email
   copyright: "Copyright 2013 Gateway. All Rights Reserved."
- # Logo must be uploaded to theme's img folder.
+
+# Logo must be uploaded to theme's img folder.
 logo: logo.png
 header:
   title: The City &amp; the Wild
@@ -14,40 +15,16 @@ header:
       url: "#"
       class: button radius
 
-
 social:
   - url: 'https://twitter.com/getgrav'
     icon: 'twitter'
   - url: '#'
     icon: 'facebook'
-  - url: 'blog.rss'
-    icon: 'rss'
-contact:
-  address:
-    - line: "222 Ave C South"
-    - line: "Saskatoon, Saskatchewan"
-    - line: "Canada S7K 2N5"
-  gps: 1.306.222.3456
-othermenu:
-  - text: "About"
-    url: "about"
-  - text: "Privacy Policy"
-    url: "#"
-  - text: "Contact"
-    url: "contact"
-quicklinks:
-  - text: "Portfolio"
-    url: "base_url:portfolio"
-  - text: "About"
-    url: "base_url:about"
-  - text: "Services"
-    url: "base_url:services"
-  - text: "Archive"
-    url: "base_url:archive"
-  - text: "Blog"
-    url: "base_url:blog"
-  - text: "Contact Us"
-    url: "base_url:contact"
+  - url: 'http://www.vimeo.com'
+    icon: 'vimeo-square'
+  - url: 'http://www.pinterest.com'
+    icon: 'pinterest'
+
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
@@ -60,22 +37,9 @@ routes:
   /another/one/here: '/blog/sample-3'       # Another alias for /blog/sample-3
   /new/*: '/blog/*'                         # Wildcard any /new/my-page URL to /blog/my-page Route
 
-header_options:
-  arrows: 'true'                            # Create Next and previous button
-  autoslide: 'false'                        # Auto slideshow mode
-  autoslideHoverStop: 'false'               # Pause auto slideshow mode on mouseover
-  interval: '2000'                          # The interval between each slide (Interval in millisecond)
-  loop: 'false'                             # Infinite slideshow
-  transition : zoom                         # Set the animation kind (fade/slide/page/zoom)
-  itemsForSlide: '0'                        # Wrap each 'n' item
-  touch: 'true'                             # Set a native slide for touch device
-  swipe : 'true'                            # Enable swipe for touch device
-
 footer:
-    description: "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam."
-    contact_title: "Contact Info"
-    links_title: "Quick Links"
-    newsletter_title: "Newsletter"
-    newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
-    copyright_text: "Copyright 2013 Gateway. All Rights Reserved."
-    feedburner: ""   # Your feedburner id for Newsletter footer modul
+  widget:
+    title: About the Gateway Theme
+    description: "Gateway incorporates elegant style with user friendly customizer options making it perfectly suited for a variety of WordPress users. It's sure to be a favorite for first time WordPress users and experienced developers alike."
+    link:
+copyright: Copyright © 2015 <a href="http://rescuethemes.com/">Rescue Themes</a>. All Rights Reserved. Converted by <a href="http://www.getgrav.org">Grav Team</a>

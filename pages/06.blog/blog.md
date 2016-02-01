@@ -2,8 +2,7 @@
 title: Blog
 blog_url: blog
 menu: Blog
-body_classes: header-lite fullwidth blogstyling
-bg_color: "#B4B093"
+body_classes: blog group-blog infinite-scroll neverending infinity-end
 
 sitemap:
     changefreq: monthly
@@ -23,5 +22,5 @@ feed:
 
 pagination: true
 ---
-
-# Our Blog
+## Latest News
+### Change these titles to anything you'd like in the customizer.

@@ -3,7 +3,7 @@ title: Just Some Text Today
 date: 13:34 06/23/2014 
 continue_link: false
 author: Andy Rhuker
-body_classes: header-lite fullwidth blogstyling
+body_classes: single single-post postid-15 single-format-standard group-blog f-topbar-fixed
 taxonomy:
     category: blog
     tag: [journal]

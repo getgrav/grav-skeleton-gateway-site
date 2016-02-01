@@ -2,7 +2,7 @@
 title: 'Focus and Blur'
 date: '13:34 06/21/2014'
 author: 'Charles Eagle'
-body_classes: 'header-lite fullwidth blogstyling'
+body_classes: 'single single-post postid-15 single-format-standard group-blog f-topbar-fixed'
 taxonomy:
     category:
         - blog

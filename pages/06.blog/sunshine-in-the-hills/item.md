@@ -2,7 +2,7 @@
 title: Sunshine in the Hills
 date: 14:55 07/11/2014
 author: Tasha Maxwell
-body_classes: header-lite fullwidth blogstyling
+body_classes: single single-post postid-15 single-format-standard group-blog f-topbar-fixed
 taxonomy:
     category: blog
     tag: [journal, photography]

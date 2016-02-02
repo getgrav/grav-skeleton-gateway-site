@@ -16,3 +16,5 @@ content:
             - _bottom
             - _contact
 ---
+## Featured Posts
+### Occaecati curabitur autem mollit! Vestibulum veritatis. Aliquam orci cumque curabitur.

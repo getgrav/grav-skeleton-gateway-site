@@ -25,7 +25,7 @@ social:
   - url: 'http://www.pinterest.com'
     icon: 'pinterest'
 
-taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
+taxonomies: [category,tag,featured]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
 metadata:

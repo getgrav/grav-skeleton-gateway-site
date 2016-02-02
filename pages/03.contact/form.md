@@ -1,25 +1,18 @@
 ---
-title: Contact Us
-onpage_menu: false
-body_classes: "modular header-lite fullwidth"
-bg_color: "#B4B093"
+title: Contact
 form:
     name: my-nice-form
-    action: /contact
     fields:
         - name: name
-          id: name
           label: Name
-          classes: form-control form-control-lg
           placeholder: Enter your name
+          autofocus: on
           autocomplete: on
           type: text
           validate:
             required: true
 
         - name: email
-          id: email
-          classes: form-control form-control-lg
           label: Email
           placeholder: Enter your email address
           type: text
@@ -29,7 +22,6 @@ form:
 
         - name: message
           label: Message
-          classes: form-control form-control-lg
           size: long
           placeholder: Enter your message
           type: textarea
@@ -38,8 +30,8 @@ form:
 
     buttons:
         - type: submit
-          value: Submit
-          class: btn btn-primary btn-block
+          value: Submit »
+          classes: btn
 
     process:
         - email:
@@ -55,10 +47,8 @@ form:
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
         - message: Thank you for your feedback!
-        - display: thankyou    
-content:
-    items: @self.modular
-    order:
-        by: default
-        dir: asc
+        - display: thankyou
 ---
+A contact form is a great way to offer your readers the ability to get in touch, without giving out your personal email address. You can add a contact form to any post or page from the editor.
+
+Each contact form can easily be customized to fit your needs too. When a user submits your contact form, the feedback will be filtered through Akismet (if it is active on your site) to make sure it’s not spam. Any legitimate feedback will then be emailed to you, and added to your feedback management area.

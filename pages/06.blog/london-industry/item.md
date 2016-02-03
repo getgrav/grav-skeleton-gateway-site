@@ -2,7 +2,7 @@
 title: London Industry at Night
 date: 13:34 06/07/2014
 author: Michael Reimer
-body_classes: single single-post postid-15 single-format-standard group-blog f-topbar-fixed
+body_classes: single single-post postid-15 single-format-standard group-blog
 taxonomy:
     category: blog
     tag: [city, night, photography]

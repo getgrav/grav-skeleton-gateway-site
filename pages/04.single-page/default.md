@@ -1,5 +1,5 @@
 ---
-title: Example page with Featured Image
+title: Example page
 body_classes: page page-template-default group-blog
 ---
 

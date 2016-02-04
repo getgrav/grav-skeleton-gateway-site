@@ -1,6 +1,13 @@
 ---
 title: Example page
 body_classes: page page-template-default group-blog
+toggles:
+  - title: Some title
+    description: Some description
+    position: top
+  - title: Some title
+    description: Some description
+    position: bottom
 ---
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.

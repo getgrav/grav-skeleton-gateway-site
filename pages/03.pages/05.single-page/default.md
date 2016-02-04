@@ -8,6 +8,15 @@ toggles:
   - title: Some title
     description: Some description
     position: bottom
+progressbar:
+  - title: Example
+    percent: 75
+    background: "#f1c40f"
+    position: top
+  - title: Example
+    percent: 25
+    background: "#f10e0e"
+    position: bottom
 ---
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.

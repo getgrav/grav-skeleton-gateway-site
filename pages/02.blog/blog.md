@@ -2,7 +2,7 @@
 title: Blog
 blog_url: blog
 menu: Blog
-body_classes: blog group-blog infinite-scroll neverending infinity-end
+body_classes: blog group-blog infinite-scroll
 
 sitemap:
     changefreq: monthly
@@ -23,4 +23,4 @@ feed:
 pagination: true
 ---
 ## Latest News
-### Change these titles to anything you'd like in the customizer.
+### Change these titles to anything you'd like in the admin panel or markdown files.

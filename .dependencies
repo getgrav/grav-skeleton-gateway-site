@@ -27,13 +27,13 @@ git:
         url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
         branch: master
+    comments:
+        url: https://github.com/getgrav/grav-plugin-comments
+        path: user/plugins/comments
+        branch: master
     jscomments:
         url: https://github.com/nunopress/grav-plugin-jscomments
         path: user/plugins/jscomments
-        branch: master
-    breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
         branch: master
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
@@ -76,13 +76,13 @@ links:
         src: grav-plugin-form
         path: user/plugins/form
         scm: github
+    comments:
+        src: grav-plugin-comments
+        path: user/plugins/comments
+        scm: github
     jscomments:
         src: grav-plugin-jscomments
         path: user/plugins/jscomments
-        scm: github
-    breadcrumbs:
-        src: grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
         scm: github
     taxonomylist:
         src: grav-plugin-taxonomylist

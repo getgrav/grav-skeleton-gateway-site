@@ -6,7 +6,6 @@ body_classes: single single-post postid-15 single-format-standard group-blog
 taxonomy:
     category: Scholarship
     tag: [fourth, third]
-    featured: true
 ---
 
 Non! Venenatis, quasi integer hic quod, laoreet asperiores aspernatur! Excepturi nostra animi lorem. Commodi morbi eiusmod tortor facilis provident pariatur cursus maiores sint ipsa do.

@@ -1,11 +1,12 @@
 ---
-title: Architecto wis mauris
+title: Fugit potenti sollicitudin
 date: 13:34 06/23/2014
 author: Rescue Themes
 body_classes: single single-post postid-15 single-format-standard group-blog
 taxonomy:
-    category: Championship
+    category: Featured
     tag: [first, second]
+    featured: true
 ---
 
 Architecto wisi earum mauris, hic eum nascetur temporibus temporibus mus donec urna, nihil augue donec do nisl quaerat turpis, explicabo, dolorem do accumsan sociis. Lacinia.

@@ -1,0 +1,24 @@
+{
+   "project":"grav-skeleton-gateway-site",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "skeleton":[
+               {
+                  "source":"/",
+                  "destination":"/user"
+               }
+            ],
+            "error plugin":[{
+               "project":"grav-plugin-error"
+            }],
+            "problems plugin":[{
+               "project":"grav-plugin-problems"
+            }],
+            "gateway theme":[{
+               "project":"grav-theme-gateway"
+            }]
+         }
+      }
+   }
+}

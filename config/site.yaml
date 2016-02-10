@@ -1,0 +1,45 @@
+title: Gateway
+author:
+  name: John Appleseed                      # Default author name
+  email: 'john@email.com'                   # Default author email
+  copyright: "Copyright 2013 Gateway. All Rights Reserved."
+
+# Logo must be uploaded to theme's img folder.
+logo: logo.png
+header:
+  title: The City &amp; the Wild
+  description: Gateway has elegant style perfectly suited for a variety of users; writers, businesses or personal sites. Design is everywhere... even under the hood with rock solid development.
+  background: background.jpg
+  buttons:
+    - text: Explore More
+      url: "#"
+      class: button radius
+
+social:
+  - url: 'https://twitter.com/getgrav'
+    icon: 'twitter'
+  - url: '#'
+    icon: 'facebook'
+  - url: 'http://www.vimeo.com'
+    icon: 'vimeo-square'
+  - url: 'http://www.pinterest.com'
+    icon: 'pinterest'
+
+taxonomies: [category,tag,featured]                  # Arbitrary list of taxonomy types
+blog:
+  route: '/blog'                            # Route to blog
+metadata:
+    description: 'My Gateway Site'             # Site description
+summary:
+  size: 300                                 # Maximum length of summary (characters)
+routes:
+  /something/else: '/blog/sample-3'         # Alias for /blog/sample-3
+  /another/one/here: '/blog/sample-3'       # Another alias for /blog/sample-3
+  /new/*: '/blog/*'                         # Wildcard any /new/my-page URL to /blog/my-page Route
+
+footer:
+  widget:
+    title: About the Gateway Theme
+    description: "Gateway incorporates elegant style with user friendly customizer options making it perfectly suited for a variety of WordPress users. It's sure to be a favorite for first time WordPress users and experienced developers alike."
+    link:
+copyright: Copyright © 2015 <a href="http://rescuethemes.com/">Rescue Themes</a>. All Rights Reserved. Converted by <a href="http://www.getgrav.org">Grav Team</a>

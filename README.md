@@ -6,18 +6,19 @@ Gateway by [RescueThemes](https://rescuethemes.com/) incorporates elegant style 
 
 # Features
 
-* Fully responsive
-* Automatic and custom navigation menus included
-* Showcase section with stunning animated slideshow module
-* Services grid with custom FontAwesome icons.
-* Portfolio grid with modal window popup previews for portfolio item details. Both frontpage (minimal) and full featured versions included.
-* Footer section with Feedburner subscription (feedburner id customizable in site config), custom menus, contact info and more.
-* About layout with social icons module and custom styling
-* Services layout with FontAwesome icons and pricing tables
-* Archive layout with blog posts archives list
-* Full featured blog with support for custom authors and jscomments
-* Contact us layout with Simple Form plugin support.
-* SCSS files included for deeper customization options
+* Navigation menu included
+* Clean Layout
+* Blog Layout
+* Minimalistic
+* Social Sharing
+* Browser Compatibility
+* SimpleSearch support
+* Feeds
+* Feaured Posts
+* RelatedPosts plugin support
+* Archives plugin support
+* JSComments plugin support
+* Comments and Forms plugin support
 
 ## Basic Setup for a new Grav site
 

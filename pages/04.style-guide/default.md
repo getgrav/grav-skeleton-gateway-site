@@ -15,7 +15,7 @@ Gateway pays special attention to typography and type treatment, which really un
 
 ##Heading Two
 
-##Heading Three
+###Heading Three
 
 ####Heading Four
 
